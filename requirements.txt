@@ -1,4 +1,0 @@
-voila
-ipython
-jupyterlab
-ipywidgets
