@@ -1,4 +1,0 @@
-#!/bin/bash
-# Ehitab sarnaste fontide vahemälu
-python -c "import matplotlib.pyplot"
-
