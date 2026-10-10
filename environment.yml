@@ -1,8 +1,0 @@
-name: latex-env
-channels:
-  - conda-forge
-dependencies:
-  - python=3.10
-  - ipywidgets
-  - ipykernel
-  - voila
