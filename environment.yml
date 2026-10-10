@@ -1,10 +1,7 @@
+name: latex-env
 channels:
-    - conda-forge
+  - conda-forge
 dependencies:
-    - python
-    - pip
-    - setuptools
-    - matplotlib
-    - jupyterlab
-    - pip:
-      - jupyterlab_latex
+  - python=3.10
+  - ipywidgets
+  - ipykernel
